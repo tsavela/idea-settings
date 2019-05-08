@@ -1,0 +1,12 @@
+<application>
+  <component name="CodeLensSettings" defaultAnchor="Right">
+    <anchor>
+      <map>
+        <entry key="Usages" value="Default" />
+      </map>
+    </anchor>
+    <enabled>
+      <map />
+    </enabled>
+  </component>
+</application>
