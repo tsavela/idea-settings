@@ -20,5 +20,6 @@
     <entry key="ide.win.file.chooser.native" value="true" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="ide.win.frame.decoration" value="true" />
+    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
   </component>
 </application>
