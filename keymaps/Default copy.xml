@@ -5,12 +5,12 @@
   </action>
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
-  <action id="Debug">
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
+  <action id="Debug" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
   </action>
+  <action id="ForceStepInto" />
+  <action id="ForceStepOver" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -25,8 +25,23 @@
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
   </action>
   <action id="Replace" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="SearchEverywhereActions">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="ShowBookmarks" />
+  <action id="SmartStepInto" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleBookmark" />
   <action id="Vcs.UpdateProject" />
 </keymap>
