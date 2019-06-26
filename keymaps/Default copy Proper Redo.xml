@@ -1,0 +1,53 @@
+<keymap version="1" name="Default copy Proper Redo" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ChooseDebugConfiguration" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="Debug" />
+  <action id="EditorDeleteLine" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
+  </action>
+  <action id="ForceStepInto" />
+  <action id="ForceStepOver" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
+  </action>
+  <action id="Replace" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="SearchEverywhereActions">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="ShowBookmarks" />
+  <action id="SmartStepInto" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="Vcs.UpdateProject" />
+</keymap>
