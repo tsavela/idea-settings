@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="POSTGRES_PASSWORD" value="postgres" />
+    </envs>
+  </component>
+</application>
