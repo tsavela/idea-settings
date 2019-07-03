@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TestAuthMiddleware_ShouldGive401AndNotCallNextHandler_WhenNoAuthorizationHeaderExists in gpe-bff/inboundAdapters/httpServer'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'TestAuthMiddleware_ShouldGive401AndNotCallNextHandler_WhenNoAuthorizationHeaderExists in gpe-bff/inboundAdapters/httpServer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'go build main.go'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
