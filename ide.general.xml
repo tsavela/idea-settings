@@ -20,7 +20,8 @@
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="ide.win.file.chooser.native" value="true" />
     <entry key="parameter.info.max.visible.rows" value="10" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="performance.watcher.sampling.interval.ms" value="100" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="500" />
   </component>
 </application>
