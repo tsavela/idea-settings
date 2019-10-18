@@ -1,0 +1,37 @@
+<keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="Console.TableResult.FindInGrid">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
+  </action>
+  <action id="RiderUnitTestAppendTestsAction" />
+  <action id="RiderUnitTestCoverSolutionAction" />
+  <action id="RiderUnitTestDebugContextAction" />
+  <action id="RiderUnitTestDotMemoryUnitContextAction" />
+  <action id="RiderUnitTestDotMemoryUnitSolutionAction" />
+  <action id="RiderUnitTestNewSessionAction" />
+  <action id="RiderUnitTestRepeatPreviousRunAction" />
+  <action id="RiderUnitTestRunContextAction" />
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="RiderUnitTestRunContextUntilFailAction" />
+  <action id="RiderUnitTestRunCurrentSessionAction" />
+  <action id="RiderUnitTestRunSolutionAction" />
+  <action id="RiderUnitTestSessionAbortAction" />
+  <action id="RiderUnitTestSessionRerunFailedTestsAction" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Vcs.Log.GoToRef">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+</keymap>
